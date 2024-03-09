@@ -13,8 +13,6 @@ const config: DocsThemeConfig = {
   footer: {
     text: 'Osmium Science Docs',
   },
-  primaryHue: 194,
-  primarySaturation: 100,
 }
 
 export default config
