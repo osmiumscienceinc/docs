@@ -11,5 +11,12 @@
     "type": "page",
     "href": "https://discord.gg/NVvy5ccytE",
     "newWindow": true
+  },
+  "404": {
+    "type": "page",
+    "theme": {
+      "timestamp": false,
+      "typesetting": "article"
+    }
   }
 }
