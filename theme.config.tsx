@@ -2,16 +2,16 @@ import React from 'react'
 import { DocsThemeConfig } from 'nextra-theme-docs'
 
 const config: DocsThemeConfig = {
-  logo: <span>My Project</span>,
+  logo: <span>Osmium Science</span>,
   project: {
-    link: 'https://github.com/shuding/nextra-docs-template',
+    link: 'https://github.com/osmiumscienceinc/docs',
   },
   chat: {
-    link: 'https://discord.com',
+    link: 'https://discord.gg/',
   },
-  docsRepositoryBase: 'https://github.com/shuding/nextra-docs-template',
+  docsRepositoryBase: 'https://github.com/osmiumscienceinc/docs',
   footer: {
-    text: 'Nextra Docs Template',
+    text: 'Osmium Science Docs',
   },
 }
 
