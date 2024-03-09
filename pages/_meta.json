@@ -1,6 +1,7 @@
 {
   "index": "Introduction",
   "another": "Another Page",
+  "anomalies": "Anomalies",
   "about": {
     "title": "About",
     "type": "page"
