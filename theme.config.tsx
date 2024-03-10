@@ -6,6 +6,7 @@ const config: DocsThemeConfig = {
   project: {
     link: 'https://github.com/osmiumscienceinc/docs',
   },
+  darkMode: false,
   chat: {
     link: 'https://discord.gg/',
   },
