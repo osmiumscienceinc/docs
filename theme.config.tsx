@@ -13,6 +13,19 @@ const config: DocsThemeConfig = {
   footer: {
     text: 'Osmium Science Docs',
   },
+  useNextSeoProps() {
+    return {
+      titleTemplate: '%s – Osmium Science'
+    }
+  },
+  head: (
+    <>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+      <meta property="og:title" content="Osmium Science Docs" />
+      <meta property="og:description" content="Osmium Science - Documentation" />
+      <meta property="og:type" content="website"/>
+    </>
+  )
 }
 
 export default config
