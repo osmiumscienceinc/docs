@@ -344,10 +344,10 @@ hr+.anom-bar-container,
     font-weight: 600;
     -webkit-box-shadow: 0 -0.5rem 0 0 rgb(238, 238, 238);
     -moz-box-shadow: 0 -0.5rem 0 0 rgb(238, 238, 238);
-    box-shadow: 0 -0.5rem 0 0 rgb(238, 238, 238);
+    box-shadow: 0 -0.5rem 0 0 hwb(0 90% 7%);
     -webkit-box-shadow: 0 -0.5rem 0 0 rgb(var(--swatch-menubg-black-color, 238, 238, 238));
     -moz-box-shadow: 0 -0.5rem 0 0 rgb(var(--swatch-menubg-black-color, 238, 238, 238));
-    box-shadow: 0 -0.5rem 0 0 rgb(var(--swatch-menubg-black-color, 238, 238, 238));
+    box-shadow: 0 -0.3rem 0 0 rgb(var(--swatch-menubg-black-color, 238, 238, 238));
     margin-top: -0.5rem;
     padding-top: 0.25rem;
 }
