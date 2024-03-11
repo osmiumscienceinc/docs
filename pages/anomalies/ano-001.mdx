@@ -1,1 +1,27 @@
+import { Callout } from 'nextra/components'
+import {
+  BoxIcon,
+  ChevronRightIcon,
+  GearIcon,
+  RowsIcon
+} from '@components/icons'
+import { Card, Cards } from 'nextra/components'
+
 # ANO-001 Proposals
+
+<Callout type="error">The following Files have been classified <b>TOP SECRET</b> by order of the Administrator</Callout>
+
+<br />
+
+<Cards>
+  <Card
+    icon={<ChevronRightIcon />}
+    title="When Night Breaks"
+    href="/ano-001/when_night_breaks"
+  />
+  <Card
+    icon={<RowsIcon />}
+    title="Osmium's Clock"
+    href="/ano-001/osmiums_clock"
+  />
+</Cards>
