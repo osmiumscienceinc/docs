@@ -8,7 +8,7 @@ const config: DocsThemeConfig = {
   },
   darkMode: false,
   chat: {
-    link: 'https://discord.gg/',
+    link: 'https://discord.gg/SUUSYSDHGr',
   },
   docsRepositoryBase: 'https://github.com/osmiumscienceinc/docs',
   footer: {
