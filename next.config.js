@@ -7,9 +7,4 @@ const config = {
   output: 'export',
 }
 
-const nextConfig = {
-  ...config,
-  ...withNextra
-}
-
-module.exports = nextConfig
+module.exports = withNextra(config)
