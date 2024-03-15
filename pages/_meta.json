@@ -1,6 +1,8 @@
 {
   "index": "Introduction",
   "anomalies": "Anomalies",
+  "items": "Items",
+  "oec": "Osmium Energy Core",
   "about": {
     "title": "About",
     "type": "page"
